@@ -1,0 +1,1 @@
+host ansible_host=192.168.210.120 ansible_ssh_user=vagrant ansible_ssh_pass=vagrant
