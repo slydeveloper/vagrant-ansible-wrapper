@@ -30,7 +30,9 @@ Usage
 - Go to Ansible example project: `cd ansible-example`
 - Eun Ansible command: `ansible all -i inventory -m ping -vv`
 - Example response from host machine:
-```host | SUCCESS => {
+```
+host | SUCCESS => {
     "changed": false,
     "ping": "pong"
-}```
+}
+```
