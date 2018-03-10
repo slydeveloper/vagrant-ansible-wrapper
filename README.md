@@ -7,7 +7,7 @@ Goals
 Run Ansible project without installing Ansible tool (i.e: Ansible does not support MS Windows). Ansible project is "mounted" to Vagrant machine. Example consists of two machines:
 
 - `ansible` - machnie contains pre-installed Anaible tool and example Ansible project
-- `host` - test machine where Ansible runs scripts agains
+- `host` - test machine where Ansible runs scripts against
 
 Requirements
 ------------
